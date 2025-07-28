@@ -11,7 +11,7 @@ A clean and simple **URL Shortener** built using **React.js (v18)** that allows 
 
 ---
 
-## Screenshots
+## Outputs
 
 ### Home Page (Shortener)
 <img width="2879" height="1542" alt="image" src="https://github.com/user-attachments/assets/c61934c7-c7d9-44c4-ad5d-d488056d4139" />
