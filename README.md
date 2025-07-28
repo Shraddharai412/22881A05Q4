@@ -11,13 +11,13 @@ A clean and simple **URL Shortener** built using **React.js (v18)** that allows 
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-### 🎯 Home Page (Shortener)
+### Home Page (Shortener)
 <img width="2879" height="1542" alt="image" src="https://github.com/user-attachments/assets/c61934c7-c7d9-44c4-ad5d-d488056d4139" />
 
 
-### 📊 Statistics Page
+### Statistics Page
 
 <img width="2873" height="1503" alt="image" src="https://github.com/user-attachments/assets/2f728199-ae35-4aed-9980-f1e2ce292612" />
 
@@ -26,7 +26,7 @@ A clean and simple **URL Shortener** built using **React.js (v18)** that allows 
 
 ### 1. Clone the repository
 
-```bash
+```
 git clone https://github.com/Shraddharai412/22881A05Q4.git
 cd 22881A05Q4_Frontend
 
@@ -34,7 +34,7 @@ npm install
 npm start
 ```
 Project Structure
-
+```
 src/
 ├── components/
 │   ├── Navbar.js
@@ -50,6 +50,7 @@ src/
 │   └── validators.js
 ├── App.js
 └── index.js
+```
 
 
  Features
